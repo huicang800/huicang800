@@ -169,6 +169,7 @@ int main(){
     int result = ExecuteData(stack,data);
     if(result==0)printf("括号是正确匹配的\n");
     else printf("括号匹配不正确\n");
+    NBBY
     return 0;
 }
 
